@@ -3,7 +3,7 @@
 
 ## Project Overview
 
-This project analyzes ShopSmart Retail Group's sales and inventory data using Microsoft Excel 2013. The goal is to identify sales trends, evaluate product and store performance, examine returns and inventory levels, and communicate actionable findings through an executive dashboard and business report.
+This project analyzes ShopSmart Retail Group's sales and inventory data using Microsoft Excel. The goal is to identify sales trends, evaluate product and store performance, examine returns and inventory levels, and communicate actionable findings through an executive dashboard and business report.
 
 ## Tools and Techniques
 
