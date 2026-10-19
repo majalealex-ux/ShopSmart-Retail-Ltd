@@ -7,7 +7,7 @@ This project analyzes ShopSmart Retail Group's sales and inventory data using Mi
 
 ## Tools and Techniques
 
-- Microsoft Excel 2013
+- Microsoft Excel
 - Excel Tables and formulas
 - VLOOKUP for combining related data
 - Data cleaning and validation
